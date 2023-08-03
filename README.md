@@ -5,7 +5,7 @@ Hello! I’m Upendra Yadav (@upendra672)👋
  
 
 Language Known:
-JavaScript(beginner), HTML5, CSS3, Java, Python, C 
+JavaScript, HTML5, CSS3, Java, Python, C 
 
 <!-- NodeJS Express.js MongoDB jQuery C++ -->
 <!-- - 👀 I’m interested in ...
