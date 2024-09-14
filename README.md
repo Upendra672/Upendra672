@@ -5,7 +5,7 @@ Hello! I’m Upendra Yadav (@upendra672)👋
  
 
 Language Known:
-JavaScript, HTML5, CSS3, SASS, C, React, NodeJS, Express.js, MongoDB, NextJs, Electron, TypeScript, Javascript
+JavaScript, HTML5, CSS3, SASS, C, React, NodeJS, Express.js, MongoDB, NextJs, Electron, TypeScript
 
 
 <!-- - 👀 I’m interested in ...
