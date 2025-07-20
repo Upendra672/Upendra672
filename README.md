@@ -1,5 +1,5 @@
 Hello! I’m Upendra Yadav (@upendra672)👋
- >📫 How to reach me: upendaryadav672@gmail.com
+ >📫 How to reach me: uyadav9445@gmail.com
 
  > Portfolio: https://upendra01.vercel.app/
  
