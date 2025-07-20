@@ -1,7 +1,7 @@
 Hello! I’m Upendra Yadav (@upendra672)👋
  >📫 How to reach me: upendaryadav672@gmail.com
 
- > Portfolio: https://upendra-portfolio.vercel.app/#projects
+ > Portfolio: https://upendra01.vercel.app/
  
 
 Language Known:
