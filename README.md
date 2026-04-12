@@ -48,8 +48,8 @@ I enjoy building software end-to-end — from clean, expressive UI and well-desi
 ## ⚒️ My tech stack
 
 **Frontend:** Angular, React, TypeScript, Tailwind  
-**Backend:**  Node.js    
-**Databases:** SQL, MySQL
+**Backend:** Node.js  
+**Databases:** SQL, MySQL              
 **Testing & Quality:** Vitest
 
 ## Connect with me 📲
