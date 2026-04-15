@@ -47,10 +47,11 @@ I enjoy building software end-to-end — from clean, expressive UI and well-desi
 
 ## ⚒️ My tech stack
 
-**Frontend:** Angular, React, TypeScript, Tailwind  
+**Frontend:** Angular, React, Electron, Ionic, TypeScript, Tailwind  
 **Backend:** Node.js  
-**Databases:** SQL, MySQL              
+**Databases:** SQL, MySQL, Redis              
 **Testing & Quality:** Vitest
+**Tools:** Jira, Figma, Intellij (IDE), Postman, Mockoon, VsCode, Cursor, Codex(CLI), Claude (CLI)
 
 ## Connect with me 📲
 
